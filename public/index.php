@@ -4,7 +4,7 @@ $data = [
     'year' => date('Y'),
     'strings' => [
         'ru' => [
-            'Index' => [
+            'index' => [
                 'title' => 'ДИДЖИТАЛ АУТСОРС',
                 'firstRow' => 'Стратегия | Концепция | Разработка | Аналитика',
                 'secondRow' => 'WebGL | React.js | Laravel',
@@ -17,19 +17,19 @@ $data = [
                 'andOthers' => 'и других',
                 'trusted' => 'Нам доверяют'
             ],
-            'Page404' => [
+            'page404' => [
                 'pageNotFound' => 'Страница не найдена',
                 'youCanReturn' => 'Вы можете перейти на',
                 'mainPage' => 'главную страницу',
                 'contactUs' => 'или связаться с нами'
             ],
-            'Footer' => [
+            'footer' => [
                 'psrn' => 'ОГРНИП',
                 'inn' => 'ИНН'
             ],
         ],
         'en' => [
-            'Index' => [
+            'index' => [
                 'title' => 'Digital outsource',
                 'firstRow' => 'Strategy | Conception | Development | Analytics',
                 'secondRow' => 'WebGL | React.js | Laravel',
@@ -42,13 +42,13 @@ $data = [
                 'andOthers' => 'and others',
                 'trusted' => 'Trusted by'
             ],
-            'Page404' => [
+            'page404' => [
                 'pageNotFound' => 'We are sorry, but requested page was not found',
                 'youCanReturn' => 'You can either return to',
                 'mainPage' => 'main page',
                 'contactUs' => 'or contact us'
             ],
-            'Footer' => [
+            'footer' => [
                 'psrn' => 'PSRN',
                 'inn' => 'INN'
             ]
