@@ -5,7 +5,6 @@ $data = [
     'strings' => [
         'ru' => [
             'index' => [
-                'title' => 'ДИДЖИТАЛ АУТСОРС',
                 'firstRow' => 'Стратегия | Концепция | Разработка | Аналитика',
                 'secondRow' => 'WebGL | React.js | Laravel',
                 'anyQuestions' => 'По любым вопросам',
@@ -30,7 +29,6 @@ $data = [
         ],
         'en' => [
             'index' => [
-                'title' => 'Digital outsource',
                 'firstRow' => 'Strategy | Conception | Development | Analytics',
                 'secondRow' => 'WebGL | React.js | Laravel',
                 'anyQuestions' => 'If you have any questions',
